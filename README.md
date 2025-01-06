@@ -169,5 +169,3 @@ Access the tool at:
 The **Intelligent Documentation Creator** revolutionizes project documentation by automating repetitive tasks, promoting standardization, and bridging knowledge gaps. Its powerful AI capabilities make it an essential tool for modern software development teams.  
 
 ---
-
-Would you like to adjust anything further?
